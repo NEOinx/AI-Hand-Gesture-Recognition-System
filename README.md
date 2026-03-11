@@ -1,7 +1,7 @@
 # AI-Hand-Gesture-Recognition-System
 Real-time AI Hand Gesture Recognition with 95% accuracy &amp; 30% lower latency. IoT-integrated for smart device control. TensorFlow/MediaPipe.
 # AI Hand Gesture Recognition System 🚀
-
+**Real-time mouse control + app launching.**
 **Real-time gesture detection achieving 95% accuracy across diverse demographics with 30% reduced processing latency.**
 
 ✨ Key Achievements
