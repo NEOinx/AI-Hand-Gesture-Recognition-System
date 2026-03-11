@@ -1,0 +1,8 @@
+
+enhanced_collect...py → Record gestures
+
+create_dataset...py → Process data
+
+train_classifier...py → Train model
+
+inference...py → Live demo (your 95% accuracy)
